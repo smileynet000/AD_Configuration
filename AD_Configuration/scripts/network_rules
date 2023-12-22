@@ -1,0 +1,4 @@
+%SMILEY000\\jnormal_users       ALL=(ALL)   /usr/local/bin/tldr
+%SMILEY000\\jnormal_users       ALL=(%SMILEY000\\jadmins)   ALL
+%SMILEY000\\jadmins     ALL=(ALL)   ALL
+%SMILEY000\\jadminsl4   ALL=(ALL)   NOPASSWD:ALL   
