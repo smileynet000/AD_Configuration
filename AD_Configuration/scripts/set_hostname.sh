@@ -10,3 +10,5 @@ sudo hostnamectl set-hostname $hostv
 sudo cp -f /etc/hostname /etc/hostname.old
 sudo echo $hostv > /etc/hostname
 sudo hostnamectl status
+
+sudo echo $hostv > /etc/settings/hostname.cfg
